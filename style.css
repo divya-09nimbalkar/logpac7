@@ -1,0 +1,19 @@
+body{
+ text-align: center;
+}
+div{
+background-image: linear-gradient(rgb(179, 0, 255),rgb(5, 241, 249),black);
+border: 3px solid black;
+width:30%
+margin: auto;
+margin-right: auto;
+padding : 20px
+}
+{
+height : 50%
+ margin-top: 150px
+}
+button{
+ background-color: rgb(241, 224, 232)
+}
+</body>
